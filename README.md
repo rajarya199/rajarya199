@@ -1,4 +1,6 @@
 ## Hi there 👋
+<h1>Hi 👋, I'm Rajan Aryal</h1>
+<p>Computer Science Engineer, A passionate fullStack web developer .</p>
 
 <!--
 **rajarya199/rajarya199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
