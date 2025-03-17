@@ -84,6 +84,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+<h3 align="left">🌍 Languages:</h3>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajarya199&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+
+
+
+###
 
 ###
